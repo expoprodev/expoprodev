@@ -2,7 +2,7 @@
   
   <br />
   
-  I'm a Senior Full-Stack & Blockchain Developer.
+  I'm a Senior Full-Stack Web & Blockchain Developer.
 
 I have rich experience in React, Vue.js, Node.js, Laravel, Java and Django.
 
@@ -53,4 +53,8 @@ As a senior developer, I can assure you the perfect result on time.
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=3bac3a)
+
+
+
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=3bac3a)
