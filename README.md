@@ -4,7 +4,7 @@
   
   I'm a Senior Full-Stack Web & Blockchain Developer.
 
-I have rich experience in React, Vue.js, Node.js, Laravel, Java and Django.
+I have rich experience in React, Vue.js, Node.js, Ruby on Rails, Django.
 
 Also I have built lots of NFT, Swap and cryptocurrencies.
 
