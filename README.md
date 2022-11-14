@@ -12,6 +12,7 @@ I have led many projects to successfully.
 
 As a senior developer, I can assure you the perfect result on time.
 <br />
+<br />
 FrontEnd : React(TypeScript/JavaScript), Vue,<br />
 Backend : NodeJs(TypeScript/JavaScript), Django, Ruby on Rails, Larabel.
 
