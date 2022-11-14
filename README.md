@@ -2,9 +2,9 @@
   
   <br />
   
-  I'm a Senior Full-Stack Web & Blockchain Developer.
+I'm a Senior Full-Stack Developer.
 
-I have rich experience in React, Vue.js, Node.js, Ruby on Rails, Django.
+I have rich experience in React, Vue.js, Node.js, Django, Ruby on Rails.
 
 Also I have built lots of NFT, Swap and cryptocurrencies.
 
@@ -12,6 +12,8 @@ I have led many projects to successfully.
 
 As a senior developer, I can assure you the perfect result on time.
 
+FrontEnd : React(TypeScript/JavaScript), Vue,
+Backend : NodeJs(TypeScript/JavaScript), Django, Ruby on Rails, Larabel.
 
  <div>
   <img align="right" alt="GIF" src="https://fuertedevelopers.in/wp-content/uploads/2020/08/aboutus.gif" width="500" height="320" />
