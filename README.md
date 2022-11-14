@@ -11,8 +11,8 @@ Also I have built lots of NFT, Swap and cryptocurrencies.
 I have led many projects to successfully.
 
 As a senior developer, I can assure you the perfect result on time.
-
-FrontEnd : React(TypeScript/JavaScript), Vue,
+<br />
+FrontEnd : React(TypeScript/JavaScript), Vue,<br />
 Backend : NodeJs(TypeScript/JavaScript), Django, Ruby on Rails, Larabel.
 
  <div>
