@@ -48,12 +48,5 @@ My main skills are:<br>
   <li><a href="https://new.letsusedata.com" target="_blank">https://new.letsusedata.com</a></li>(ASP.NET)
 </ul>
 
-<h3>👀 My github Stats</h3>
-
-<div>
-  <p align="center">
-  <b><em>GitHub Stats:</em></b> <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=topman430" alt="GitHub Stats" /> <br/><br/>  
-</div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=topman430&layout=compact)
