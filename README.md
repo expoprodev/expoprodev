@@ -2,8 +2,8 @@
 
 
 <h3 style="font-family:'Fantasy'">Welcome to my page!</h3> 
-</br><h2> I am a Fullstack developer with 7+ years of experience with web development.<h2>
-<h4>I have wide experience in JavaScript/TypeScript, Ruby and python.</h4><br>
+<h2> I am a Fullstack developer with 7+ years of experience with web development.<h2>
+<h4>I have wide experience in JavaScript/TypeScript, Ruby and python.</h4>
 My main skills are:<br>
 - Frontend: React, Vue.js, AngularJS<br>
 - Mobile: ReactNative, Flutter<br>
