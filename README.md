@@ -4,8 +4,8 @@
 <h3 style="font-family:'Fantasy'">Welcome to my page!</h3> 
 <h3> I am a Fullstack developer with 7+ years of experience with web development.<h3>
 <h4>I have wide experience in JavaScript/TypeScript, Ruby and python.</h4>
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
-My main skills are:<br>
+
+👍My main skills are:<br>
 - Frontend: React, Vue.js, AngularJS<br>
 - Mobile: ReactNative, Flutter<br>
 - Backend: Node.js(ExpressJS, NestJS), Ruby On Rails, Python(Django, Flask), PHP(Laravel, CI)<br>
