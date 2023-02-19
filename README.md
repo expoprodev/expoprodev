@@ -47,7 +47,6 @@
 </p>
 
 <h3>🔅My latest projects🔅</h3>
-div
 <ul>
   <li>▶️<a href="https://dobbys.io" target="_blank">https://dobbys.io</a></li>(React + Node)
   <li>▶️<a href="https://azle.io" target="_blank">https://azle.io</a></li>(React + Nest) - CRM
