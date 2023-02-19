@@ -48,7 +48,7 @@
 
 <h3>🔅My latest projects🔅</h3>
 <ul>
-  <li>▶️<a href="https://dobbys.io" target="_blank">https://dobbys.io</a></li>(React + Node)
+  <li>▶️<a href="https://dobbys.io" target="_blank">https://dobbys.io</a></li><p>(React + Node)<p>
   <li>▶️<a href="https://azle.io" target="_blank">https://azle.io</a></li>(React + Nest) - CRM
   <li>▶️<a href="https://dashboard.crowdflare.app" target="_blank">https://dashboard.crowdflare.app</a></li> (React+RoR)
   <li>▶️<a href="https://www.colochousing.com" target="_blank">https://www.colochousing.com</a></li> (Vue+Laravel)
