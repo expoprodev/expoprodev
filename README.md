@@ -5,7 +5,7 @@
 <h3> I am a Fullstack developer with 7+ years of experience with web development.<h3>
 <h4>I have wide experience in JavaScript/TypeScript, Ruby and python.</h4>
 
-<h4>🌟My main skills are:🌟<h4>
+<h2>🌟My main skills:🌟<h2>
 - Frontend: React, Vue.js, AngularJS<br>
 - Mobile: ReactNative, Flutter<br>
 - Backend: Node.js(ExpressJS, NestJS), Ruby On Rails, Python(Django, Flask), PHP(Laravel, CI)<br>
