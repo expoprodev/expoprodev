@@ -6,13 +6,14 @@
 <h4>I have wide experience in JavaScript/TypeScript, Ruby and python.</h4>
 
 <h2>🌟My main skills:🌟</h2>
-✔️ <b>Frontend</b>: <b>React, Vue.js, AngularJS</b></br>
-✔️ Backend: Node.js(Express&Nest), Ruby On Rails, Python(Django, Flask), PHP(Laravel, CI)<br>
-✔️ Mobile: ReactNative, Flutter</br>
-✔️ Serverless: AWS, Google Cloud<br>
-✔️ Database: MySQL, PostgreSQL, MsSQL, MongoDB<br>
-✔️ DevOps: Git, Azure<br>
-</p>
+✔️ <b>Frontend</b>: <b>React(Next), Vue(Nuxt), AngularJS</b></br>
+✔️ <b>Backend</b>: <b>Node.js(Express & Nest), Ruby On Rails, Django, Laravel</b><br>
+✔️ <b>Mobile</b>: <b>ReactNative, Flutter</b></br>
+✔️ <b>Serverless</b>: <b>AWS, Google Cloud</b><br>
+✔️ <b>Database</b>: <b>MySQL, PostgreSQL, MsSQL, MongoDB</b><br>
+✔️ <b>DevOps</b>: <b>Git, Azure</b><br>
+✔️ <b>Agile/scrum methodology, Jira, Asana, GitHub, GitLab, BitBucket</b>
+
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
