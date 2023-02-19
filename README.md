@@ -6,7 +6,7 @@
 <h4>I have wide experience in JavaScript/TypeScript, Ruby and python.</h4>
 
 <h2>🌟My main skills:🌟</h2>
-✔️ <h5>Frontend</h5>: <h6>React, Vue.js, AngularJS</h6></br>
+✔️ <b>Frontend</b>: <b>React, Vue.js, AngularJS</b></br>
 ✔️ Backend: Node.js(Express&Nest), Ruby On Rails, Python(Django, Flask), PHP(Laravel, CI)<br>
 ✔️ Mobile: ReactNative, Flutter</br>
 ✔️ Serverless: AWS, Google Cloud<br>
