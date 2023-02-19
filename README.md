@@ -48,11 +48,11 @@
 
 <h3>🔅My latest projects🔅</h3>
 <ul>
-  <li>🔴<a href="https://dobbys.io" target="_blank">https://dobbys.io</a></li>(React + Node)
-  <li>🔴<a href="https://www.colochousing.com" target="_blank">https://dashboard.crowdflare.app</a></li> (React+RoR)
-  <li>🔴<a href="https://www.colochousing.com" target="_blank">https://www.colochousing.com</a></li> (Vue+Laravel)
-  <li>🔴<a href="https://app.pollthepeople.app" target="_blank">https://app.pollthepeople.app</a></li> (React+Laravel)
-  <li>🔴<a href="https://new.letsusedata.com" target="_blank">https://new.letsusedata.com</a></li>(ASP.NET)
+  <li>▶️<a href="https://dobbys.io" target="_blank">https://dobbys.io</a></li>(React + Node)
+  <li>▶️<a href="https://www.colochousing.com" target="_blank">https://dashboard.crowdflare.app</a></li> (React+RoR)
+  <li>▶️<a href="https://www.colochousing.com" target="_blank">https://www.colochousing.com</a></li> (Vue+Laravel)
+  <li>▶️<a href="https://app.pollthepeople.app" target="_blank">https://app.pollthepeople.app</a></li> (React+Laravel)
+  <li>▶️<a href="https://new.letsusedata.com" target="_blank">https://new.letsusedata.com</a></li>(ASP.NET)
 </ul>
 
 
