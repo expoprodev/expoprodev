@@ -1,7 +1,7 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I am a Fullstack developer and I've been developing for 5+ years.<br>
+<p>Welcome to my page! <p></br> I am a Fullstack developer and I've been developing for 5+ years.<br>
 I have wide experience in C#, javascript, C++, PHP and python.<br>
 My main skills are:<br>
 - Frontend: React, Vue.js, AngularJS<br>
