@@ -2,13 +2,12 @@
 
 
 <h3 style="font-family:'Fantasy'">Welcome to my page!</h3> 
-<h3> I am a Fullstack developer with 7+ years of experience with web development.<h3>
+<h3> I am a Fullstack developer with 9+ years of experience with web development.<h3>
 <h4>I have wide experience in JavaScript/TypeScript, Ruby and python.</h4>
 
 <h2>🌟My main skills:🌟</h2>
-✔️ <b>Frontend</b>: <b>React(Next), Vue(Nuxt), AngularJS</b></br>
-✔️ <b>Backend</b>: <b>Node.js(Express & Nest), Ruby On Rails, Django, Laravel</b><br>
-✔️ <b>Mobile</b>: <b>ReactNative, Flutter</b></br>
+✔️ <b>Frontend</b>: <b>React(Next), AngularJS</b></br>
+✔️ <b>Backend</b>: <b>Node.js(Express & Nest), ASP.Net, Django </b><br>
 ✔️ <b>Serverless</b>: <b>AWS, Google Cloud</b><br>
 ✔️ <b>Database</b>: <b>MySQL, PostgreSQL, MsSQL, MongoDB</b><br>
 ✔️ <b>DevOps</b>: <b>Git, Azure</b><br>
@@ -48,11 +47,8 @@
 
 <h3>🔅My latest projects🔅</h3>
 <ul>
-  <li>▶️<a href="https://dobbys.io" target="_blank">https://dobbys.io</a></li>(React + Node)
   <li>▶️<a href="https://azle.io" target="_blank">https://azle.io</a></li>(React + Nest) - CRM
-  <li>▶️<a href="https://dashboard.crowdflare.app" target="_blank">https://dashboard.crowdflare.app</a></li> (React+RoR)
-  <li>▶️<a href="https://www.colochousing.com" target="_blank">https://www.colochousing.com</a></li> (Vue+Laravel)
-  <li>▶️<a href="https://app.pollthepeople.app" target="_blank">https://app.pollthepeople.app</a></li> (React+Laravel)
+  <li>▶️<a href="https://dashboard.crowdflare.app" target="_blank">https://dashboard.crowdflare.app</a></li> (React+ ASP.Net)
   <li>▶️<a href="https://new.letsusedata.com" target="_blank">https://new.letsusedata.com</a></li>(ASP.NET)
 </ul>
 
